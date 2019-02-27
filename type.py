@@ -5,3 +5,4 @@ elif n>0:
   print("Positive")
 else:
   print("Zero")
+  
